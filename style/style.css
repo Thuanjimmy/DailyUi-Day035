@@ -1,0 +1,26 @@
+body {
+  background-color: #222831;
+  color: white;
+}
+
+.larger {
+  font-size: 4rem;
+  font-family: ubuntu;
+}
+.navbar {
+  padding: 5% 5%;
+}
+
+.container2 {
+  padding: 2% 5%;
+}
+
+.picture {
+  width: 80%;
+}
+.link {
+  position: relative;
+  top: 75px;
+  display: flex;
+  justify-content: space-between;
+}
